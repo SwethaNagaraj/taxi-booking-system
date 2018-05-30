@@ -1,0 +1,9 @@
+com/nutonomy/org/TaxiDetails.class
+com/nutonomy/org/Response.class
+com/nutonomy/org/BookTaxiResource.class
+com/nutonomy/org/CurrentLocation.class
+com/nutonomy/org/BookTaxiApplication.class
+com/nutonomy/org/BookTaxiService.class
+com/nutonomy/org/Destination.class
+com/nutonomy/org/ResetTaxiStatus.class
+com/nutonomy/org/Source.class
